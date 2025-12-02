@@ -1,13 +1,5 @@
-<h1>Projetos do DevClub</h1>
+<h1>Projeto jokenpo do DevClub</h1>
 <br>
 <p>As tecnologias usadas foram: HTML5, CSS3 e JavaScript</p>
 <br>
-<img src="https://github.com/PedroHenriqueDosSantosNL/Projetos/blob/main/Projeto_Easy_Shopping/assets/Easy-shopping.png"/>
-<br>
-<img src="https://github.com/PedroHenriqueDosSantosNL/Projetos/blob/main/Projeto_Positive/assets/Positive.png"/>
-<br>
-<img src="https://github.com/PedroHenriqueDosSantosNL/Projetos/blob/main/We_Care/assets/We-care.png?raw=true" />
-<br>
-<img src="https://github.com/PedroHenriqueDosSantosNL/Projetos/blob/main/Projeto_Conversor/assets/Print_Projeto_Conversor.png"/>
-<br>
-<img />
+<img src="https://github.com/PedroHenriqueDosSantosNL/Projeto-jokenpo/blob/main/Projeto_jokenpo/assets/tela-principal-jokenpo.png"/>
