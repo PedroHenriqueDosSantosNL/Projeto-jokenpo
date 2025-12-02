@@ -5,5 +5,9 @@ function generateNumber() {
     
     const result = Math.floor(Math.random() * (max - min + 1)) + min;
 
-    alert(result)
+    if(min < max) {
+        alert(result)
+    } else {
+        alert('Por favor, insira valores válidos para o sorteio!')
+    }
 }
